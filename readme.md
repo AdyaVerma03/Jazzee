@@ -1,7 +1,7 @@
 <h1 align="center">TASK BOARD</h1>
 
 <div align="center">
-<img align="center" src="readme_assets\TB_Logo.png" height="250px">
+<img align="center" src="readme_assets\move1.png" height="400px">
 </div>
 
 <br>
@@ -50,49 +50,61 @@
 <br>
 <div>
   <br>
-  <b>1)</b> Dragging and dropping a task between lists
+  <b>1) Dragging and dropping a task between lists</b>
   <br><br>
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 10px;">
-      <img src="readme_assets\move1.png" alt="Before Dragging" width="400">
-      <p><strong>Before</strong></p>
+      <img src="readme_assets\move1.png" alt="Before Dragging" width="800">
+      <p><strong>Before:</strong> Task 1 is in the Not-Started List</p>
     </div>
+    <br>
     <div style="text-align: center; margin: 10px;">
-      <img src="readme_assets\move2.png" alt="After Dragging" width="400">
-      <p><strong>After</strong></p>
+      <img src="readme_assets\move2.png" alt="After Dragging" width="800">
+      <p><strong>After:</strong> Task 1 is dragged and dropped to the In-Progress List</p>
     </div>
   </div>
   <br><br>
-  <b>2)</b> Adding a new task
+  <b>2) Adding a new task</b>
   <br><br>
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 10px;">
-      <img src="readme_assets\add_task_before.png" alt="Before Adding Task" width="400">
-      <p><strong>Before</strong></p>
+      <img src="readme_assets\add1.png" alt="Before Adding Task" width="800">
+      <p><strong>Before: </strong>Only two tasks in the Not-Started list</p>
     </div>
+    <br>
     <div style="text-align: center; margin: 10px;">
-      <img src="readme_assets\add_task_after.png" alt="After Adding Task" width="400">
-      <p><strong>After</strong></p>
+      <img src="readme_assets\add2.png" alt="After Adding Task" width="800">
+      <p><strong>After: </strong>New task added to the Not-Started list</p>
     </div>
   </div>
   <br><br>
   <b>3)</b> Editing a task's details
   <br><br>
   <div style="text-align: center; margin: 10px;">
-    <img src="readme_assets\edit_task.png" alt="Edit Task Page" width="400">
+    <img src="readme_assets\edit1.png" alt="Edit Task Page" width="800">
     <p><strong>Edit Task Page</strong></p>
   </div>
+  <br>
+  <div style="text-align: center; margin: 10px;">
+    <img src="readme_assets\edit2.png" alt="Edit Task Page" width="800">
+    <p><strong>Editing the task</strong></p>
+  </div>
+  <br>
+  <div style="text-align: center; margin: 10px;">
+    <img src="readme_assets\edit3.png" alt="Edit Task Page" width="800">
+    <p><strong>New information updated</strong></p>
+  </div>
   <br><br>
-  <b>4)</b> Adding a new category/status
+  <b>4) Adding a new category/status</b>
   <br><br>
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 10px;">
-      <img src="readme_assets\add_status_before.png" alt="Before Adding Status" width="400">
-      <p><strong>Before</strong></p>
+      <img src="readme_assets\newstat1.png" alt="Before Adding Status" width="800">
+      <p>To add a new category of list, List name is mentioned and the plus sign is clicked. </p>
     </div>
     <div style="text-align: center; margin: 10px;">
-      <img src="readme_assets\add_status_after.png" alt="After Adding Status" width="400">
-      <p><strong>After</strong></p>
+      <img src="readme_assets\newstat2.png" alt="After Adding Status" width="800">
+      <p>New list category added.</p>
     </div>
   </div>
 </div>
@@ -100,8 +112,4 @@
 </div>
 
 ---
-
-<h2 align="center"><b>Developed by Team Girls Who Code</b></h2><br>
-
-[![](https://img.shields.io/badge/LinkedIn-Adya_Verma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adya-verma-b5241824a/)
 
